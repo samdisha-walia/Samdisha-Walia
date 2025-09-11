@@ -8,7 +8,7 @@
 
 🎓 **B.Tech CSE | Final Year Student @ Amity University Punjab** <br>
 💻 **AI/ML Enthusiast | Full-Stack & Hybrid App Developer | Patent Author** <br>
-🛠️ **Currently working on:** E-commerce, Computer Vision, Text-to-3D, NLP, Agentic AI <br>
+🛠️ **Currently working on:** Smart Parking System, E-commerce, Computer Vision, Text-to-3D, NLP, Agentic AI <br>
 
 ---
 
