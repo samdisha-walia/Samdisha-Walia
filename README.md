@@ -86,5 +86,3 @@ Passionate about building scalable applications and impactful AI-driven systems.
 # 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Samdisha-Walia&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samdisha-Walia&theme=dark&hide_border=false&layout=compact)
-
-
